@@ -21,3 +21,6 @@ This project uses a Jupyter Notebook to build models that predict the likelihood
   - **Random Forest**
 - Used error metric average precision to see how many of the top 5 were predicted correctly.
 - Evaluation metrics include accuracy, precision, recall, and ROC curves for assessing model performance.
+
+## 🚧 In the Works
+- **DPOY Predictor**: A similar model for predicting the NBA Defensive Player of the Year award is currently being developed. This model will focus on defensive statistics such as blocks, steals, and opponent shooting percentages.
